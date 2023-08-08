@@ -1,3 +1,5 @@
+package demo;
+
 import java.awt.Frame;
 
 import com.jogamp.opengl.GLAutoDrawable;
